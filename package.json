@@ -1,0 +1,24 @@
+{
+  "name": "nodeissue",
+  "version": "1.0.0",
+  "description": "This project aim is to narrow down openssl issue on node v4.2.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "tls",
+    "openssl"
+  ],
+  "author": {
+    "name": "Diego Sanchez",
+    "email": "dsanchez@iamat.com",
+    "twitter": "@dsminotauro"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.4.6",
+    "newrelic": "^1.24.0"
+  }
+}
