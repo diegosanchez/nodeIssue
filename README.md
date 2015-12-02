@@ -1,4 +1,4 @@
-[Node Issue](https://github.com/nodejs/node/issues/4121)
+[Node issue](https://github.com/nodejs/node/issues/4121). Indeed, not isn't.
 
 Having built node v4.2.2 I get a segmentation fault.   
 
